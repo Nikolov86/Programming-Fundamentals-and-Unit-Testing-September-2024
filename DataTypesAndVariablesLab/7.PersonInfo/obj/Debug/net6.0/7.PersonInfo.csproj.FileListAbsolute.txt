@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\bin\Debug\net6.0\7.PersonInfo.exe
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\bin\Debug\net6.0\7.PersonInfo.deps.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\bin\Debug\net6.0\7.PersonInfo.runtimeconfig.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\bin\Debug\net6.0\7.PersonInfo.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\bin\Debug\net6.0\7.PersonInfo.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\7.PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\7.PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\7.PersonInfo.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\7.PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\7.PersonInfo.sourcelink.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\7.PersonInfo.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\refint\7.PersonInfo.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\7.PersonInfo.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\7.PersonInfo.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\7.PersonInfo\obj\Debug\net6.0\ref\7.PersonInfo.dll

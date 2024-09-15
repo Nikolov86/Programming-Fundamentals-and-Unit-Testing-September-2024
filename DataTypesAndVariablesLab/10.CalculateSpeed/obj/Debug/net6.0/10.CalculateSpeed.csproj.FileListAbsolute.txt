@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\bin\Debug\net6.0\10.CalculateSpeed.exe
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\bin\Debug\net6.0\10.CalculateSpeed.deps.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\bin\Debug\net6.0\10.CalculateSpeed.runtimeconfig.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\bin\Debug\net6.0\10.CalculateSpeed.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\bin\Debug\net6.0\10.CalculateSpeed.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\10.CalculateSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\10.CalculateSpeed.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\10.CalculateSpeed.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\10.CalculateSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\10.CalculateSpeed.sourcelink.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\10.CalculateSpeed.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\refint\10.CalculateSpeed.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\10.CalculateSpeed.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\10.CalculateSpeed.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\10.CalculateSpeed\obj\Debug\net6.0\ref\10.CalculateSpeed.dll

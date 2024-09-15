@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\bin\Debug\net6.0\9.DaysInMinutes.exe
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\bin\Debug\net6.0\9.DaysInMinutes.deps.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\bin\Debug\net6.0\9.DaysInMinutes.runtimeconfig.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\bin\Debug\net6.0\9.DaysInMinutes.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\bin\Debug\net6.0\9.DaysInMinutes.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\9.DaysInMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\9.DaysInMinutes.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\9.DaysInMinutes.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\9.DaysInMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\9.DaysInMinutes.sourcelink.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\9.DaysInMinutes.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\refint\9.DaysInMinutes.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\9.DaysInMinutes.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\9.DaysInMinutes.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\9.DaysInMinutes\obj\Debug\net6.0\ref\9.DaysInMinutes.dll

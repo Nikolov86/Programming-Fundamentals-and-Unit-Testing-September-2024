@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\bin\Debug\net6.0\4.Calculations.exe
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\bin\Debug\net6.0\4.Calculations.deps.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\bin\Debug\net6.0\4.Calculations.runtimeconfig.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\bin\Debug\net6.0\4.Calculations.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\bin\Debug\net6.0\4.Calculations.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\4.Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\4.Calculations.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\4.Calculations.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\4.Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\4.Calculations.sourcelink.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\4.Calculations.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\refint\4.Calculations.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\4.Calculations.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\4.Calculations.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\4.Calculations\obj\Debug\net6.0\ref\4.Calculations.dll

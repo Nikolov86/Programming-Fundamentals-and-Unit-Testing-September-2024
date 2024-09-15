@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\bin\Debug\net6.0\6.CustomerInfo.exe
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\bin\Debug\net6.0\6.CustomerInfo.deps.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\bin\Debug\net6.0\6.CustomerInfo.runtimeconfig.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\bin\Debug\net6.0\6.CustomerInfo.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\bin\Debug\net6.0\6.CustomerInfo.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\6.CustomerInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\6.CustomerInfo.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\6.CustomerInfo.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\6.CustomerInfo.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\6.CustomerInfo.sourcelink.json
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\6.CustomerInfo.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\refint\6.CustomerInfo.dll
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\6.CustomerInfo.pdb
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\6.CustomerInfo.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\progForQaSoftUni\6.CustomerInfo\obj\Debug\net6.0\ref\6.CustomerInfo.dll

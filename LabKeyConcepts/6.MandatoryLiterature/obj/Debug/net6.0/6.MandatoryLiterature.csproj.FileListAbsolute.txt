@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\bin\Debug\net6.0\6.MandatoryLiterature.exe
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\bin\Debug\net6.0\6.MandatoryLiterature.deps.json
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\bin\Debug\net6.0\6.MandatoryLiterature.runtimeconfig.json
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\bin\Debug\net6.0\6.MandatoryLiterature.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\bin\Debug\net6.0\6.MandatoryLiterature.pdb
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\6.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\6.MandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\6.MandatoryLiterature.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\6.MandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\6.MandatoryLiterature.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\refint\6.MandatoryLiterature.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\6.MandatoryLiterature.pdb
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\6.MandatoryLiterature.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\6.MandatoryLiterature\obj\Debug\net6.0\ref\6.MandatoryLiterature.dll

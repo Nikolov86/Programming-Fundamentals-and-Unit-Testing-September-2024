@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\bin\Debug\net6.0\1. ConvertorUsdToEUR.exe
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\bin\Debug\net6.0\1. ConvertorUsdToEUR.deps.json
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\bin\Debug\net6.0\1. ConvertorUsdToEUR.runtimeconfig.json
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\bin\Debug\net6.0\1. ConvertorUsdToEUR.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\bin\Debug\net6.0\1. ConvertorUsdToEUR.pdb
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\1. ConvertorUsdToEUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\1. ConvertorUsdToEUR.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\1. ConvertorUsdToEUR.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\1. ConvertorUsdToEUR.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\1. ConvertorUsdToEUR.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\refint\1. ConvertorUsdToEUR.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\1. ConvertorUsdToEUR.pdb
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\1. ConvertorUsdToEUR.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\1. ConvertorUsdToEUR\obj\Debug\net6.0\ref\1. ConvertorUsdToEUR.dll

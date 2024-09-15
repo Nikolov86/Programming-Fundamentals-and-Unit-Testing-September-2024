@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F5ECD8-1D54-4179-B3AA-9E081EFE07B2}|7.SuppliesForSchool\\7.SuppliesForSchool.csproj|c:\\users\\nikola\\source\\repos\\labkeyconcepts\\7.suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F5ECD8-1D54-4179-B3AA-9E081EFE07B2}|7.SuppliesForSchool\\7.SuppliesForSchool.csproj|solutionrelative:7.suppliesforschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB47D6C6-A674-4220-BCAE-DB3BBBB74362}|6.MandatoryLiterature\\6.MandatoryLiterature.csproj|c:\\users\\nikola\\source\\repos\\labkeyconcepts\\6.mandatoryliterature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB47D6C6-A674-4220-BCAE-DB3BBBB74362}|6.MandatoryLiterature\\6.MandatoryLiterature.csproj|solutionrelative:6.mandatoryliterature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4A2383-DEAC-44B3-A6F8-BEC08DFF9DE1}|5.DepositCalculator\\5.DepositCalculator.csproj|c:\\users\\nikola\\source\\repos\\labkeyconcepts\\5.depositcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF4A2383-DEAC-44B3-A6F8-BEC08DFF9DE1}|5.DepositCalculator\\5.DepositCalculator.csproj|solutionrelative:5.depositcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D324447-B57E-40C7-AAD6-8B4B34500900}|4.Tiles\\4.Tiles.csproj|c:\\users\\nikola\\source\\repos\\labkeyconcepts\\4.tiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D324447-B57E-40C7-AAD6-8B4B34500900}|4.Tiles\\4.Tiles.csproj|solutionrelative:4.tiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F65865-A5F9-4031-B1FC-4CF26B0F669F}|3.Market\\3.Market.csproj|c:\\users\\nikola\\source\\repos\\labkeyconcepts\\3.market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F65865-A5F9-4031-B1FC-4CF26B0F669F}|3.Market\\3.Market.csproj|solutionrelative:3.market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D916DB-CD74-4133-B256-C6E1DF65E265}|2.FourOperations\\2.FourOperations.csproj|c:\\users\\nikola\\source\\repos\\labkeyconcepts\\2.fouroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D916DB-CD74-4133-B256-C6E1DF65E265}|2.FourOperations\\2.FourOperations.csproj|solutionrelative:2.fouroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75D0A1DA-EC3C-42CE-8245-FE19FE8F91F0}|1. ConvertorUsdToEUR\\1. ConvertorUsdToEUR.csproj|c:\\users\\nikola\\source\\repos\\labkeyconcepts\\1. convertorusdtoeur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D0A1DA-EC3C-42CE-8245-FE19FE8F91F0}|1. ConvertorUsdToEUR\\1. ConvertorUsdToEUR.csproj|solutionrelative:1. convertorusdtoeur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\7.SuppliesForSchool\\Program.cs",
+              "RelativeDocumentMoniker": "7.SuppliesForSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\7.SuppliesForSchool\\Program.cs",
+              "RelativeToolTip": "7.SuppliesForSchool\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:22:35.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\6.MandatoryLiterature\\Program.cs",
+              "RelativeDocumentMoniker": "6.MandatoryLiterature\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\6.MandatoryLiterature\\Program.cs",
+              "RelativeToolTip": "6.MandatoryLiterature\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:57:20.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\5.DepositCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "5.DepositCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\5.DepositCalculator\\Program.cs",
+              "RelativeToolTip": "5.DepositCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:42:49.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\4.Tiles\\Program.cs",
+              "RelativeDocumentMoniker": "4.Tiles\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\4.Tiles\\Program.cs",
+              "RelativeToolTip": "4.Tiles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:20:31.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\3.Market\\Program.cs",
+              "RelativeDocumentMoniker": "3.Market\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\3.Market\\Program.cs",
+              "RelativeToolTip": "3.Market\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:26:17.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\2.FourOperations\\Program.cs",
+              "RelativeDocumentMoniker": "2.FourOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\2.FourOperations\\Program.cs",
+              "RelativeToolTip": "2.FourOperations\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:56:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\1. ConvertorUsdToEUR\\Program.cs",
+              "RelativeDocumentMoniker": "1. ConvertorUsdToEUR\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\LabKeyConcepts\\1. ConvertorUsdToEUR\\Program.cs",
+              "RelativeToolTip": "1. ConvertorUsdToEUR\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:48:54.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

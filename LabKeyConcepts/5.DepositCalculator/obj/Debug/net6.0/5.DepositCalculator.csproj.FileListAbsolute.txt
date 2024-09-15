@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\bin\Debug\net6.0\5.DepositCalculator.exe
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\bin\Debug\net6.0\5.DepositCalculator.deps.json
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\bin\Debug\net6.0\5.DepositCalculator.runtimeconfig.json
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\bin\Debug\net6.0\5.DepositCalculator.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\bin\Debug\net6.0\5.DepositCalculator.pdb
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\5.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\5.DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\5.DepositCalculator.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\5.DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\5.DepositCalculator.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\refint\5.DepositCalculator.dll
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\5.DepositCalculator.pdb
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\5.DepositCalculator.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\LabKeyConcepts\5.DepositCalculator\obj\Debug\net6.0\ref\5.DepositCalculator.dll

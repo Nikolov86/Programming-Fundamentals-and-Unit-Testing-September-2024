@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\bin\Debug\net6.0\4.GreaterNumber.exe
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\bin\Debug\net6.0\4.GreaterNumber.deps.json
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\bin\Debug\net6.0\4.GreaterNumber.runtimeconfig.json
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\bin\Debug\net6.0\4.GreaterNumber.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\bin\Debug\net6.0\4.GreaterNumber.pdb
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\4.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\4.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\4.GreaterNumber.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\4.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\4.GreaterNumber.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\refint\4.GreaterNumber.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\4.GreaterNumber.pdb
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\4.GreaterNumber.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\4.GreaterNumber\obj\Debug\net6.0\ref\4.GreaterNumber.dll

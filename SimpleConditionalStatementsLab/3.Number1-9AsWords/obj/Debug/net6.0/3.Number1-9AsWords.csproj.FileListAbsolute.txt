@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\3.Number1-9AsWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\3.Number1-9AsWords.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\3.Number1-9AsWords.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\3.Number1-9AsWords.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\bin\Debug\net6.0\3.Number1-9AsWords.exe
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\bin\Debug\net6.0\3.Number1-9AsWords.deps.json
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\bin\Debug\net6.0\3.Number1-9AsWords.runtimeconfig.json
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\bin\Debug\net6.0\3.Number1-9AsWords.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\bin\Debug\net6.0\3.Number1-9AsWords.pdb
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\3.Number1-9AsWords.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\refint\3.Number1-9AsWords.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\3.Number1-9AsWords.pdb
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\3.Number1-9AsWords.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\3.Number1-9AsWords\obj\Debug\net6.0\ref\3.Number1-9AsWords.dll

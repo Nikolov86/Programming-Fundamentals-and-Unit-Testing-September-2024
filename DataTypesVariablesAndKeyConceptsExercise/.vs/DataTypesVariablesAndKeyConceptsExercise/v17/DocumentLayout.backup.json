@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F093BEE-5759-4E1E-9B8C-C2FFB20A771A}|06.Aquarium\\06.Aquarium.csproj|c:\\users\\nikola\\source\\repos\\datatypesvariablesandkeyconceptsexercise\\06.aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F093BEE-5759-4E1E-9B8C-C2FFB20A771A}|06.Aquarium\\06.Aquarium.csproj|solutionrelative:06.aquarium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FC7304-42AC-426D-A59C-80E183200566}|05.BasketballEquipment\\05.BasketballEquipment.csproj|c:\\users\\nikola\\source\\repos\\datatypesvariablesandkeyconceptsexercise\\05.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FC7304-42AC-426D-A59C-80E183200566}|05.BasketballEquipment\\05.BasketballEquipment.csproj|solutionrelative:05.basketballequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A00A3B9-421F-4616-8438-DF5DAB77EF77}|03.Redecorating\\03.Redecorating.csproj|c:\\users\\nikola\\source\\repos\\datatypesvariablesandkeyconceptsexercise\\03.redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A00A3B9-421F-4616-8438-DF5DAB77EF77}|03.Redecorating\\03.Redecorating.csproj|solutionrelative:03.redecorating\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177BE7B0-6B71-41AF-9CCE-748DB9619F88}|04.FoodDelivery\\04.FoodDelivery.csproj|c:\\users\\nikola\\source\\repos\\datatypesvariablesandkeyconceptsexercise\\04.fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177BE7B0-6B71-41AF-9CCE-748DB9619F88}|04.FoodDelivery\\04.FoodDelivery.csproj|solutionrelative:04.fooddelivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3525EE91-3063-4A2B-BE91-E8EF46AD4E0A}|02CenturiesToMinutes\\02CenturiesToMinutes.csproj|c:\\users\\nikola\\source\\repos\\datatypesvariablesandkeyconceptsexercise\\02centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3525EE91-3063-4A2B-BE91-E8EF46AD4E0A}|02CenturiesToMinutes\\02CenturiesToMinutes.csproj|solutionrelative:02centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6666284A-EA64-4869-A981-BFEF7643986B}|01ReversedNumbers\\01ReversedNumbers.csproj|c:\\users\\nikola\\source\\repos\\datatypesvariablesandkeyconceptsexercise\\01reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6666284A-EA64-4869-A981-BFEF7643986B}|01ReversedNumbers\\01ReversedNumbers.csproj|solutionrelative:01reversednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\06.Aquarium\\Program.cs",
+              "RelativeDocumentMoniker": "06.Aquarium\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\06.Aquarium\\Program.cs",
+              "RelativeToolTip": "06.Aquarium\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:27:37.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\05.BasketballEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "05.BasketballEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\05.BasketballEquipment\\Program.cs",
+              "RelativeToolTip": "05.BasketballEquipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:02:37.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\04.FoodDelivery\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoodDelivery\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\04.FoodDelivery\\Program.cs",
+              "RelativeToolTip": "04.FoodDelivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:28:52.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\03.Redecorating\\Program.cs",
+              "RelativeDocumentMoniker": "03.Redecorating\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\03.Redecorating\\Program.cs",
+              "RelativeToolTip": "03.Redecorating\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:51:37.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\02CenturiesToMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "02CenturiesToMinutes\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\02CenturiesToMinutes\\Program.cs",
+              "RelativeToolTip": "02CenturiesToMinutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:14:13.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\01ReversedNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "01ReversedNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\DataTypesVariablesAndKeyConceptsExercise\\01ReversedNumbers\\Program.cs",
+              "RelativeToolTip": "01ReversedNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:08:20.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

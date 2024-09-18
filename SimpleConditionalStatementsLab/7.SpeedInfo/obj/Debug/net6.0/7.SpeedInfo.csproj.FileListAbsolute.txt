@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.exe
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.deps.json
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.runtimeconfig.json
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\bin\Debug\net6.0\7.SpeedInfo.pdb
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\refint\7.SpeedInfo.dll
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.pdb
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\7.SpeedInfo.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\SimpleConditionalStatementsLab\7.SpeedInfo\obj\Debug\net6.0\ref\7.SpeedInfo.dll

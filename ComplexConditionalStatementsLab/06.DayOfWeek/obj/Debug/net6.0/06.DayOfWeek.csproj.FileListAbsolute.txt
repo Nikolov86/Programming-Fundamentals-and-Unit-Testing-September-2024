@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.exe
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.deps.json
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.runtimeconfig.json
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\bin\Debug\net6.0\06.DayOfWeek.pdb
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\refint\06.DayOfWeek.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.pdb
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\06.DayOfWeek.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\06.DayOfWeek\obj\Debug\net6.0\ref\06.DayOfWeek.dll

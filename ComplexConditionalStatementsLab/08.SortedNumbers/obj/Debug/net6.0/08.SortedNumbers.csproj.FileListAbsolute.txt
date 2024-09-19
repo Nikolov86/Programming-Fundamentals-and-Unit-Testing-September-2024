@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.exe
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.deps.json
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.runtimeconfig.json
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\bin\Debug\net6.0\08.SortedNumbers.pdb
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\refint\08.SortedNumbers.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.pdb
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\08.SortedNumbers.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\08.SortedNumbers\obj\Debug\net6.0\ref\08.SortedNumbers.dll

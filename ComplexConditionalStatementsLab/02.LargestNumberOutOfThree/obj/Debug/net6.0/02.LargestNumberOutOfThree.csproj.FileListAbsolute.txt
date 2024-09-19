@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.exe
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.deps.json
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.runtimeconfig.json
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\bin\Debug\net6.0\02.LargestNumberOutOfThree.pdb
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\refint\02.LargestNumberOutOfThree.dll
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.pdb
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\02.LargestNumberOutOfThree.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ComplexConditionalStatementsLab\02.LargestNumberOutOfThree\obj\Debug\net6.0\ref\02.LargestNumberOutOfThree.dll

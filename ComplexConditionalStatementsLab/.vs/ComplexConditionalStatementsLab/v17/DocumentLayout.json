@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93C710E-6447-4F0D-92DA-ED764B1BC9A1}|03.BonusScore\\03.BonusScore.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\03.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93C710E-6447-4F0D-92DA-ED764B1BC9A1}|03.BonusScore\\03.BonusScore.csproj|solutionrelative:03.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373BF696-C921-4A08-82F7-EBE89CB61575}|09.Cinema\\09.Cinema.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\09.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373BF696-C921-4A08-82F7-EBE89CB61575}|09.Cinema\\09.Cinema.csproj|solutionrelative:09.cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE29F17-2C50-4986-B788-1AD64286C196}|08.SortedNumbers\\08.SortedNumbers.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\08.sortednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE29F17-2C50-4986-B788-1AD64286C196}|08.SortedNumbers\\08.SortedNumbers.csproj|solutionrelative:08.sortednumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21FA48F-CDCC-4C0D-BFB9-CA21CC49FE5B}|07.VowelOrConsonant\\07.VowelOrConsonant.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\07.vowelorconsonant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21FA48F-CDCC-4C0D-BFB9-CA21CC49FE5B}|07.VowelOrConsonant\\07.VowelOrConsonant.csproj|solutionrelative:07.vowelorconsonant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83479BAB-6C10-42F4-BFDF-4545B5DBE285}|06.DayOfWeek\\06.DayOfWeek.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\06.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83479BAB-6C10-42F4-BFDF-4545B5DBE285}|06.DayOfWeek\\06.DayOfWeek.csproj|solutionrelative:06.dayofweek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB80F1F-AF2B-4087-BBCC-B36D7EF80837}|05.InvalidNumber\\05.InvalidNumber.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\05.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB80F1F-AF2B-4087-BBCC-B36D7EF80837}|05.InvalidNumber\\05.InvalidNumber.csproj|solutionrelative:05.invalidnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF2948D-A3CB-4FED-B0F1-5E74506DA637}|04.FoodOrDrink\\04.FoodOrDrink.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\04.foodordrink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF2948D-A3CB-4FED-B0F1-5E74506DA637}|04.FoodOrDrink\\04.FoodOrDrink.csproj|solutionrelative:04.foodordrink\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD9AD4-0B4B-411D-9A80-5E198291820C}|02.LargestNumberOutOfThree\\02.LargestNumberOutOfThree.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\02.largestnumberoutofthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD9AD4-0B4B-411D-9A80-5E198291820C}|02.LargestNumberOutOfThree\\02.LargestNumberOutOfThree.csproj|solutionrelative:02.largestnumberoutofthree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5F6E8B-BB4D-441F-9626-DE146622AB31}|01.MarketPlace\\01.MarketPlace.csproj|c:\\users\\nikola\\source\\repos\\complexconditionalstatementslab\\01.marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5F6E8B-BB4D-441F-9626-DE146622AB31}|01.MarketPlace\\01.MarketPlace.csproj|solutionrelative:01.marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 206,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\09.Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "09.Cinema\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\09.Cinema\\Program.cs",
+              "RelativeToolTip": "09.Cinema\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:22:39.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\08.SortedNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.SortedNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\08.SortedNumbers\\Program.cs",
+              "RelativeToolTip": "08.SortedNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:11:27.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\07.VowelOrConsonant\\Program.cs",
+              "RelativeDocumentMoniker": "07.VowelOrConsonant\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\07.VowelOrConsonant\\Program.cs",
+              "RelativeToolTip": "07.VowelOrConsonant\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:46:50.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\06.DayOfWeek\\Program.cs",
+              "RelativeDocumentMoniker": "06.DayOfWeek\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\06.DayOfWeek\\Program.cs",
+              "RelativeToolTip": "06.DayOfWeek\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:28:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\05.InvalidNumber\\Program.cs",
+              "RelativeDocumentMoniker": "05.InvalidNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\05.InvalidNumber\\Program.cs",
+              "RelativeToolTip": "05.InvalidNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:28:00.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\04.FoodOrDrink\\Program.cs",
+              "RelativeDocumentMoniker": "04.FoodOrDrink\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\04.FoodOrDrink\\Program.cs",
+              "RelativeToolTip": "04.FoodOrDrink\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:17:56.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\03.BonusScore\\Program.cs",
+              "RelativeDocumentMoniker": "03.BonusScore\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\03.BonusScore\\Program.cs*",
+              "RelativeToolTip": "03.BonusScore\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:19:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\02.LargestNumberOutOfThree\\Program.cs",
+              "RelativeDocumentMoniker": "02.LargestNumberOutOfThree\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\02.LargestNumberOutOfThree\\Program.cs",
+              "RelativeToolTip": "02.LargestNumberOutOfThree\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:01:22.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\01.MarketPlace\\Program.cs",
+              "RelativeDocumentMoniker": "01.MarketPlace\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ComplexConditionalStatementsLab\\01.MarketPlace\\Program.cs",
+              "RelativeToolTip": "01.MarketPlace\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:39:48.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

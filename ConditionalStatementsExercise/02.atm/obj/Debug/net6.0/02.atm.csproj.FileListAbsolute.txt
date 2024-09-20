@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\bin\Debug\net6.0\02.atm.exe
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\bin\Debug\net6.0\02.atm.deps.json
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\bin\Debug\net6.0\02.atm.runtimeconfig.json
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\bin\Debug\net6.0\02.atm.dll
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\bin\Debug\net6.0\02.atm.pdb
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\02.atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\02.atm.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\02.atm.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\02.atm.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\02.atm.dll
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\refint\02.atm.dll
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\02.atm.pdb
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\02.atm.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\01.NumberType\02.atm\obj\Debug\net6.0\ref\02.atm.dll

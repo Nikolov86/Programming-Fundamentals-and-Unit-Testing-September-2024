@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.exe
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.deps.json
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.runtimeconfig.json
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.dll
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\bin\Debug\net8.0\09.SumSeconds.pdb
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.dll
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\refint\09.SumSeconds.dll
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.pdb
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\09.SumSeconds.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\01.NumberType\09.SumSeconds\obj\Debug\net8.0\ref\09.SumSeconds.dll

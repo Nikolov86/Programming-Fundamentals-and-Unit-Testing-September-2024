@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.exe
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.deps.json
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.runtimeconfig.json
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.dll
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\bin\Debug\net8.0\01.NumbersInRange.pdb
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.dll
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\refint\01.NumbersInRange.dll
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.pdb
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\01.NumbersInRange.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ForLoopLab\01.NumbersInRange\obj\Debug\net8.0\ref\01.NumbersInRange.dll

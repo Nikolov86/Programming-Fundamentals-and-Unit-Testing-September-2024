@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.exe
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.deps.json
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.runtimeconfig.json
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.dll
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\bin\Debug\net8.0\07.LatinLetters.pdb
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.dll
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\refint\07.LatinLetters.dll
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.pdb
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\07.LatinLetters.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ForLoopLab\07.LatinLetters\obj\Debug\net8.0\ref\07.LatinLetters.dll

@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\bin\Debug\net8.0\02.FirstnNumbersSum.exe
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\bin\Debug\net8.0\02.FirstnNumbersSum.deps.json
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\bin\Debug\net8.0\02.FirstnNumbersSum.runtimeconfig.json
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\bin\Debug\net8.0\02.FirstnNumbersSum.dll
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\bin\Debug\net8.0\02.FirstnNumbersSum.pdb
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\02.FirstnNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\02.FirstnNumbersSum.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\02.FirstnNumbersSum.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\02.FirstnNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\02.FirstnNumbersSum.dll
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\refint\02.FirstnNumbersSum.dll
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\02.FirstnNumbersSum.pdb
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\02.FirstnNumbersSum.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ForLoopLab\02.FirstnNumbersSum\obj\Debug\net8.0\ref\02.FirstnNumbersSum.dll

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8A9BBF-28CA-408D-AEE3-466B814E31C1}|07.NumberProcessor\\07.NumberProcessor.csproj|c:\\users\\nikola\\source\\repos\\whilelooplab\\07.numberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8A9BBF-28CA-408D-AEE3-466B814E31C1}|07.NumberProcessor\\07.NumberProcessor.csproj|solutionrelative:07.numberprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7BFD88-4494-4F8D-8C2E-99554E7F6761}|04.Sequene2k\u002B1\\04.Sequene2k\u002B1.csproj|c:\\users\\nikola\\source\\repos\\whilelooplab\\04.sequene2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7BFD88-4494-4F8D-8C2E-99554E7F6761}|04.Sequene2k\u002B1\\04.Sequene2k\u002B1.csproj|solutionrelative:04.sequene2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58775DCD-7F6F-48CE-881F-354FC58F0794}|01.Numbers1To100\\01.Numbers1To100.csproj|c:\\users\\nikola\\source\\repos\\whilelooplab\\01.numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58775DCD-7F6F-48CE-881F-354FC58F0794}|01.Numbers1To100\\01.Numbers1To100.csproj|solutionrelative:01.numbers1to100\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7215AD78-0115-4CC8-8D08-DDC9F994A897}|02.DecreasingNumbers\\02.DecreasingNumbers.csproj|c:\\users\\nikola\\source\\repos\\whilelooplab\\02.decreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7215AD78-0115-4CC8-8D08-DDC9F994A897}|02.DecreasingNumbers\\02.DecreasingNumbers.csproj|solutionrelative:02.decreasingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FC3CB4-4ED2-450D-995B-4E1128520703}|06.NumberInRange\\06.NumberInRange.csproj|c:\\users\\nikola\\source\\repos\\whilelooplab\\06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FC3CB4-4ED2-450D-995B-4E1128520703}|06.NumberInRange\\06.NumberInRange.csproj|solutionrelative:06.numberinrange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC43405-20C5-4183-AE66-BAE46D728FC8}|05.SumDigits\\05.SumDigits.csproj|c:\\users\\nikola\\source\\repos\\whilelooplab\\05.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC43405-20C5-4183-AE66-BAE46D728FC8}|05.SumDigits\\05.SumDigits.csproj|solutionrelative:05.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\07.NumberProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "07.NumberProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\07.NumberProcessor\\Program.cs*",
+              "RelativeToolTip": "07.NumberProcessor\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:20:06.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\01.Numbers1To100\\Program.cs",
+              "RelativeDocumentMoniker": "01.Numbers1To100\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\01.Numbers1To100\\Program.cs",
+              "RelativeToolTip": "01.Numbers1To100\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:07:18.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\02.DecreasingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "02.DecreasingNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\02.DecreasingNumbers\\Program.cs",
+              "RelativeToolTip": "02.DecreasingNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:07:10.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\04.Sequene2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04.Sequene2k\u002B1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\04.Sequene2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04.Sequene2k\u002B1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:07:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\06.NumberInRange\\Program.cs",
+              "RelativeDocumentMoniker": "06.NumberInRange\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\06.NumberInRange\\Program.cs",
+              "RelativeToolTip": "06.NumberInRange\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:28:59.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\05.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "05.SumDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\WhileLoopLab\\05.SumDigits\\Program.cs",
+              "RelativeToolTip": "05.SumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:50:44.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

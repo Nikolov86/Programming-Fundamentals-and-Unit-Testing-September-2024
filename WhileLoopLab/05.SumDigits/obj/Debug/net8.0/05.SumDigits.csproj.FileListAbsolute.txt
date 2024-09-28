@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\bin\Debug\net8.0\05.SumDigits.exe
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\bin\Debug\net8.0\05.SumDigits.deps.json
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\bin\Debug\net8.0\05.SumDigits.runtimeconfig.json
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\bin\Debug\net8.0\05.SumDigits.dll
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\bin\Debug\net8.0\05.SumDigits.pdb
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\05.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\05.SumDigits.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\05.SumDigits.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\05.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\05.SumDigits.dll
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\refint\05.SumDigits.dll
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\05.SumDigits.pdb
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\05.SumDigits.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\WhileLoopLab\05.SumDigits\obj\Debug\net8.0\ref\05.SumDigits.dll

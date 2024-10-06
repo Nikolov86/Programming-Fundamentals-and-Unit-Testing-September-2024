@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.exe
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.deps.json
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.runtimeconfig.json
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.dll
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\bin\Debug\net8.0\03.TriangleOfStars.pdb
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.dll
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\refint\03.TriangleOfStars.dll
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.pdb
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\03.TriangleOfStars.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\NesteдLoopsLab\03.TriangleOfStars\obj\Debug\net8.0\ref\03.TriangleOfStars.dll

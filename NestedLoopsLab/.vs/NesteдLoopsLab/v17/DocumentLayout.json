@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05E3F0C2-F0B5-4F16-8AFB-14C1B5F58101}|08.PrimeNumber\\08.PrimeNumber.csproj|c:\\users\\nikola\\source\\repos\\neste\u0434loopslab\\08.primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05E3F0C2-F0B5-4F16-8AFB-14C1B5F58101}|08.PrimeNumber\\08.PrimeNumber.csproj|solutionrelative:08.primenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5E944-6C74-4F25-9C08-46A5DCF4FD43}|07.SumOfDigitsCalculator\\07.SumOfDigitsCalculator.csproj|c:\\users\\nikola\\source\\repos\\neste\u0434loopslab\\07.sumofdigitscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A5E944-6C74-4F25-9C08-46A5DCF4FD43}|07.SumOfDigitsCalculator\\07.SumOfDigitsCalculator.csproj|solutionrelative:07.sumofdigitscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB1242E-0D42-4FE6-A946-E91C62A2EC78}|06.TravelSavings\\06.TravelSavings.csproj|c:\\users\\nikola\\source\\repos\\neste\u0434loopslab\\06.travelsavings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB1242E-0D42-4FE6-A946-E91C62A2EC78}|06.TravelSavings\\06.TravelSavings.csproj|solutionrelative:06.travelsavings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD177D1B-57D3-489D-B78F-D9B32CBE7A66}|05.NumberPyramid\\05.NumberPyramid.csproj|c:\\users\\nikola\\source\\repos\\neste\u0434loopslab\\05.numberpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD177D1B-57D3-489D-B78F-D9B32CBE7A66}|05.NumberPyramid\\05.NumberPyramid.csproj|solutionrelative:05.numberpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A87151-FD92-4F72-AF59-4244CC986713}|01.NumbersFromNTo1\\01.NumbersFromNTo1.csproj|c:\\users\\nikola\\source\\repos\\neste\u0434loopslab\\01.numbersfromnto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A87151-FD92-4F72-AF59-4244CC986713}|01.NumbersFromNTo1\\01.NumbersFromNTo1.csproj|solutionrelative:01.numbersfromnto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\08.PrimeNumber\\Program.cs",
+              "RelativeDocumentMoniker": "08.PrimeNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\08.PrimeNumber\\Program.cs",
+              "RelativeToolTip": "08.PrimeNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:24:50.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\07.SumOfDigitsCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "07.SumOfDigitsCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\07.SumOfDigitsCalculator\\Program.cs",
+              "RelativeToolTip": "07.SumOfDigitsCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:01:43.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\06.TravelSavings\\Program.cs",
+              "RelativeDocumentMoniker": "06.TravelSavings\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\06.TravelSavings\\Program.cs",
+              "RelativeToolTip": "06.TravelSavings\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:30:55.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\01.NumbersFromNTo1\\Program.cs",
+              "RelativeDocumentMoniker": "01.NumbersFromNTo1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\01.NumbersFromNTo1\\Program.cs",
+              "RelativeToolTip": "01.NumbersFromNTo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:20:42.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\05.NumberPyramid\\Program.cs",
+              "RelativeDocumentMoniker": "05.NumberPyramid\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\Neste\u0434LoopsLab\\05.NumberPyramid\\Program.cs",
+              "RelativeToolTip": "05.NumberPyramid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:24:44.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

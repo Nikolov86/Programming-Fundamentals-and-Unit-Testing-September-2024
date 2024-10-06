@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\bin\Debug\net8.0\08.PrimeNumber.exe
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\bin\Debug\net8.0\08.PrimeNumber.deps.json
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\bin\Debug\net8.0\08.PrimeNumber.runtimeconfig.json
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\bin\Debug\net8.0\08.PrimeNumber.dll
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\bin\Debug\net8.0\08.PrimeNumber.pdb
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\08.PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\08.PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\08.PrimeNumber.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\08.PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\08.PrimeNumber.dll
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\refint\08.PrimeNumber.dll
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\08.PrimeNumber.pdb
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\08.PrimeNumber.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\NesteдLoopsLab\08.PrimeNumber\obj\Debug\net8.0\ref\08.PrimeNumber.dll

@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.exe
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.deps.json
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.runtimeconfig.json
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.dll
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\bin\Debug\net8.0\03.PrintingTriangle.pdb
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.dll
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\refint\03.PrintingTriangle.dll
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.pdb
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\03.PrintingTriangle.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\MethodsLab\03.PrintingTriangle\obj\Debug\net8.0\ref\03.PrintingTriangle.dll

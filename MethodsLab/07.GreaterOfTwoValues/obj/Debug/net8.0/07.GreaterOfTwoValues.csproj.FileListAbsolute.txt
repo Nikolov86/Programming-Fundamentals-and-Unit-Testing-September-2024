@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\bin\Debug\net8.0\07.GreaterOfTwoValues.exe
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\bin\Debug\net8.0\07.GreaterOfTwoValues.deps.json
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\bin\Debug\net8.0\07.GreaterOfTwoValues.runtimeconfig.json
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\bin\Debug\net8.0\07.GreaterOfTwoValues.dll
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\bin\Debug\net8.0\07.GreaterOfTwoValues.pdb
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\07.GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\07.GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\07.GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\07.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\07.GreaterOfTwoValues.dll
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\refint\07.GreaterOfTwoValues.dll
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\07.GreaterOfTwoValues.pdb
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\07.GreaterOfTwoValues.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\MethodsLab\07.GreaterOfTwoValues\obj\Debug\net8.0\ref\07.GreaterOfTwoValues.dll

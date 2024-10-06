@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\bin\Debug\net8.0\01.SignоfIntegerNumbers.exe
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\bin\Debug\net8.0\01.SignоfIntegerNumbers.deps.json
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\bin\Debug\net8.0\01.SignоfIntegerNumbers.runtimeconfig.json
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\bin\Debug\net8.0\01.SignоfIntegerNumbers.dll
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\bin\Debug\net8.0\01.SignоfIntegerNumbers.pdb
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\01.SignоfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\01.SignоfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\01.SignоfIntegerNumbers.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\01.SignоfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\01.SignоfIntegerNumbers.dll
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\refint\01.SignоfIntegerNumbers.dll
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\01.SignоfIntegerNumbers.pdb
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\01.SignоfIntegerNumbers.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\MethodsLab\01.SignоfIntegerNumbers\obj\Debug\net8.0\ref\01.SignоfIntegerNumbers.dll

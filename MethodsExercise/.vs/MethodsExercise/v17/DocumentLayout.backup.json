@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7856B06F-532D-4D24-869C-40267458B450}|4. PsswordValidator\\4. PsswordValidator.csproj|c:\\users\\nikola\\source\\repos\\1.vowelscount\\4. psswordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7856B06F-532D-4D24-869C-40267458B450}|4. PsswordValidator\\4. PsswordValidator.csproj|solutionrelative:4. psswordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39230FDB-124D-4EB6-9F9A-D7F9DA1F227E}|3.MultiplicationSign\\3.MultiplicationSign.csproj|c:\\users\\nikola\\source\\repos\\1.vowelscount\\3.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39230FDB-124D-4EB6-9F9A-D7F9DA1F227E}|3.MultiplicationSign\\3.MultiplicationSign.csproj|solutionrelative:3.multiplicationsign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\4. PsswordValidator\\Program.cs",
+              "RelativeDocumentMoniker": "4. PsswordValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\4. PsswordValidator\\Program.cs",
+              "RelativeToolTip": "4. PsswordValidator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:50:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\3.MultiplicationSign\\Program.cs",
+              "RelativeDocumentMoniker": "3.MultiplicationSign\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\3.MultiplicationSign\\Program.cs",
+              "RelativeToolTip": "3.MultiplicationSign\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:10:15.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

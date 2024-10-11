@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\bin\Debug\net8.0\3.MultiplicationSign.exe
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\bin\Debug\net8.0\3.MultiplicationSign.deps.json
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\bin\Debug\net8.0\3.MultiplicationSign.runtimeconfig.json
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\bin\Debug\net8.0\3.MultiplicationSign.dll
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\bin\Debug\net8.0\3.MultiplicationSign.pdb
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\3.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\3.MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\3.MultiplicationSign.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\3.MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\3.MultiplicationSign.dll
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\refint\3.MultiplicationSign.dll
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\3.MultiplicationSign.pdb
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\3.MultiplicationSign.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\1.VowelsCount\3.MultiplicationSign\obj\Debug\net8.0\ref\3.MultiplicationSign.dll

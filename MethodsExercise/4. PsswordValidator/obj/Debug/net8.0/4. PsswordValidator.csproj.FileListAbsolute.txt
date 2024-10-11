@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\bin\Debug\net8.0\4. PsswordValidator.exe
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\bin\Debug\net8.0\4. PsswordValidator.deps.json
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\bin\Debug\net8.0\4. PsswordValidator.runtimeconfig.json
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\bin\Debug\net8.0\4. PsswordValidator.dll
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\bin\Debug\net8.0\4. PsswordValidator.pdb
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\4. PsswordValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\4. PsswordValidator.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\4. PsswordValidator.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\4. PsswordValidator.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\4. PsswordValidator.dll
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\refint\4. PsswordValidator.dll
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\4. PsswordValidator.pdb
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\4. PsswordValidator.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\1.VowelsCount\4. PsswordValidator\obj\Debug\net8.0\ref\4. PsswordValidator.dll

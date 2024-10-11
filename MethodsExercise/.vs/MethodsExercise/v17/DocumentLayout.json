@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{498E22BF-A173-49AB-87BA-279942A8E903}|6.Orders\\6.Orders.csproj|c:\\users\\nikola\\source\\repos\\1.vowelscount\\6.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498E22BF-A173-49AB-87BA-279942A8E903}|6.Orders\\6.Orders.csproj|solutionrelative:6.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75702DA4-B0C8-4A89-9D68-C96CD0A714BE}|5.MultiplyEvensByOdds\\5.MultiplyEvensByOdds.csproj|c:\\users\\nikola\\source\\repos\\1.vowelscount\\5.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75702DA4-B0C8-4A89-9D68-C96CD0A714BE}|5.MultiplyEvensByOdds\\5.MultiplyEvensByOdds.csproj|solutionrelative:5.multiplyevensbyodds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\6.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "6.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\6.Orders\\Program.cs",
+              "RelativeToolTip": "6.Orders\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:15:22.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\5.MultiplyEvensByOdds\\Program.cs",
+              "RelativeDocumentMoniker": "5.MultiplyEvensByOdds\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\1.VowelsCount\\5.MultiplyEvensByOdds\\Program.cs",
+              "RelativeToolTip": "5.MultiplyEvensByOdds\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:35:04.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

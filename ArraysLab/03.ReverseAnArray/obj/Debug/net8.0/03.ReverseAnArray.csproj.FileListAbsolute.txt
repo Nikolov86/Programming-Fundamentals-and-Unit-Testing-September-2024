@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.exe
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.deps.json
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.runtimeconfig.json
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.dll
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\bin\Debug\net8.0\03.ReverseAnArray.pdb
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.dll
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\refint\03.ReverseAnArray.dll
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.pdb
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\03.ReverseAnArray.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\Arrays Lab\03.ReverseAnArray\obj\Debug\net8.0\ref\03.ReverseAnArray.dll

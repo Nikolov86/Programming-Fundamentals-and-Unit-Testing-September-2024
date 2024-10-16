@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\Downloads\\17-Unit-Testing-Methods-Resources\\07.1.Resources-Unit-Testing-Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4305922E-4EA7-4A2E-A1CD-8D006CDE169A}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\nikola\\downloads\\17-unit-testing-methods-resources\\07.1.resources-unit-testing-methods\\testapp.unittests\\gradestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4305922E-4EA7-4A2E-A1CD-8D006CDE169A}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\gradestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0DCFED-49D2-44AD-983B-0F37BDBB8A2A}|TestApp\\TestApp.csproj|c:\\users\\nikola\\downloads\\17-unit-testing-methods-resources\\07.1.resources-unit-testing-methods\\testapp\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0DCFED-49D2-44AD-983B-0F37BDBB8A2A}|TestApp\\TestApp.csproj|solutionrelative:testapp\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Downloads\\17-Unit-Testing-Methods-Resources\\07.1.Resources-Unit-Testing-Methods\\TestApp\\Grades.cs",
+              "RelativeDocumentMoniker": "TestApp\\Grades.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Downloads\\17-Unit-Testing-Methods-Resources\\07.1.Resources-Unit-Testing-Methods\\TestApp\\Grades.cs",
+              "RelativeToolTip": "TestApp\\Grades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:14:08.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Downloads\\17-Unit-Testing-Methods-Resources\\07.1.Resources-Unit-Testing-Methods\\TestApp.UnitTests\\GradesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\GradesTests.cs",
+              "ToolTip": "C:\\Users\\Nikola\\Downloads\\17-Unit-Testing-Methods-Resources\\07.1.Resources-Unit-Testing-Methods\\TestApp.UnitTests\\GradesTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\GradesTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:12:07.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\bin\Debug\net8.0\2.ListofProducts.exe
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\bin\Debug\net8.0\2.ListofProducts.deps.json
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\bin\Debug\net8.0\2.ListofProducts.runtimeconfig.json
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\bin\Debug\net8.0\2.ListofProducts.dll
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\bin\Debug\net8.0\2.ListofProducts.pdb
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\2.ListofProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\2.ListofProducts.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\2.ListofProducts.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\2.ListofProducts.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\2.ListofProducts.dll
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\refint\2.ListofProducts.dll
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\2.ListofProducts.pdb
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\2.ListofProducts.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ListLab\2.ListofProducts\obj\Debug\net8.0\ref\2.ListofProducts.dll

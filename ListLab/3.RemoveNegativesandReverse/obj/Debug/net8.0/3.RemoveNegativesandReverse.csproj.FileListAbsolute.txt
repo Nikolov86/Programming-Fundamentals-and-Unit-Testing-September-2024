@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\bin\Debug\net8.0\3.RemoveNegativesandReverse.exe
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\bin\Debug\net8.0\3.RemoveNegativesandReverse.deps.json
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\bin\Debug\net8.0\3.RemoveNegativesandReverse.runtimeconfig.json
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\bin\Debug\net8.0\3.RemoveNegativesandReverse.dll
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\bin\Debug\net8.0\3.RemoveNegativesandReverse.pdb
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\3.RemoveNegativesandReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\3.RemoveNegativesandReverse.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\3.RemoveNegativesandReverse.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\3.RemoveNegativesandReverse.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\3.RemoveNegativesandReverse.dll
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\refint\3.RemoveNegativesandReverse.dll
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\3.RemoveNegativesandReverse.pdb
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\3.RemoveNegativesandReverse.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ListLab\3.RemoveNegativesandReverse\obj\Debug\net8.0\ref\3.RemoveNegativesandReverse.dll

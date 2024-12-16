@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\source\\repos\\ListLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346BC037-3BB9-4D71-ACF3-679E15CF42B5}|3.RemoveNegativesandReverse\\3.RemoveNegativesandReverse.csproj|c:\\users\\nikola\\source\\repos\\listlab\\3.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346BC037-3BB9-4D71-ACF3-679E15CF42B5}|3.RemoveNegativesandReverse\\3.RemoveNegativesandReverse.csproj|solutionrelative:3.removenegativesandreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B302A4F7-521F-4549-8F78-ED2078F2E56A}|2.ListofProducts\\2.ListofProducts.csproj|c:\\users\\nikola\\source\\repos\\listlab\\2.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B302A4F7-521F-4549-8F78-ED2078F2E56A}|2.ListofProducts\\2.ListofProducts.csproj|solutionrelative:2.listofproducts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC02419-3798-46B2-A6D7-CA7473883178}|1.ChangeList\\1.ChangeList.csproj|c:\\users\\nikola\\source\\repos\\listlab\\1.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC02419-3798-46B2-A6D7-CA7473883178}|1.ChangeList\\1.ChangeList.csproj|solutionrelative:1.changelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBC02419-3798-46B2-A6D7-CA7473883178}|1.ChangeList\\1.ChangeList.csproj|c:\\users\\nikola\\source\\repos\\listlab\\1.changelist\\1.changelist.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EBC02419-3798-46B2-A6D7-CA7473883178}|1.ChangeList\\1.ChangeList.csproj|solutionrelative:1.changelist\\1.changelist.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ListLab\\3.RemoveNegativesandReverse\\Program.cs",
+              "RelativeDocumentMoniker": "3.RemoveNegativesandReverse\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ListLab\\3.RemoveNegativesandReverse\\Program.cs*",
+              "RelativeToolTip": "3.RemoveNegativesandReverse\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:01:07.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ListLab\\2.ListofProducts\\Program.cs",
+              "RelativeDocumentMoniker": "2.ListofProducts\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ListLab\\2.ListofProducts\\Program.cs",
+              "RelativeToolTip": "2.ListofProducts\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:51:38.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1.ChangeList",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ListLab\\1.ChangeList\\1.ChangeList.csproj",
+              "RelativeDocumentMoniker": "1.ChangeList\\1.ChangeList.csproj",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ListLab\\1.ChangeList\\1.ChangeList.csproj",
+              "RelativeToolTip": "1.ChangeList\\1.ChangeList.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T12:26:48.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nikola\\source\\repos\\ListLab\\1.ChangeList\\Program.cs",
+              "RelativeDocumentMoniker": "1.ChangeList\\Program.cs",
+              "ToolTip": "C:\\Users\\Nikola\\source\\repos\\ListLab\\1.ChangeList\\Program.cs",
+              "RelativeToolTip": "1.ChangeList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:26:05.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

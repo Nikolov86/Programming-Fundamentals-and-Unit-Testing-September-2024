@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\bin\Debug\net8.0\1.ChangeList.exe
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\bin\Debug\net8.0\1.ChangeList.deps.json
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\bin\Debug\net8.0\1.ChangeList.runtimeconfig.json
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\bin\Debug\net8.0\1.ChangeList.dll
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\bin\Debug\net8.0\1.ChangeList.pdb
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\1.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\1.ChangeList.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\1.ChangeList.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\1.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\1.ChangeList.dll
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\refint\1.ChangeList.dll
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\1.ChangeList.pdb
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\1.ChangeList.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ListsExercise\1.ChangeList\obj\Debug\net8.0\ref\1.ChangeList.dll

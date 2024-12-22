@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\bin\Debug\net8.0\5.BombNumber.exe
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\bin\Debug\net8.0\5.BombNumber.deps.json
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\bin\Debug\net8.0\5.BombNumber.runtimeconfig.json
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\bin\Debug\net8.0\5.BombNumber.dll
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\bin\Debug\net8.0\5.BombNumber.pdb
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\5.BombNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\5.BombNumber.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\5.BombNumber.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\5.BombNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\5.BombNumber.dll
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\refint\5.BombNumber.dll
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\5.BombNumber.pdb
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\5.BombNumber.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ListsExercise\5.BombNumber\obj\Debug\net8.0\ref\5.BombNumber.dll

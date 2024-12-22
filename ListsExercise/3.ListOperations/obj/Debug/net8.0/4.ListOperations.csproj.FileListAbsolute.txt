@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\bin\Debug\net8.0\4.ListOperations.exe
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\bin\Debug\net8.0\4.ListOperations.deps.json
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\bin\Debug\net8.0\4.ListOperations.runtimeconfig.json
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\bin\Debug\net8.0\4.ListOperations.dll
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\bin\Debug\net8.0\4.ListOperations.pdb
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\4.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\4.ListOperations.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\4.ListOperations.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\4.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\4.ListOperations.dll
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\refint\4.ListOperations.dll
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\4.ListOperations.pdb
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\4.ListOperations.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ListsExercise\3.ListOperations\obj\Debug\net8.0\ref\4.ListOperations.dll

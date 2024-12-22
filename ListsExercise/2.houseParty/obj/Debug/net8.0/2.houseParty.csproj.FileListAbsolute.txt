@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\bin\Debug\net8.0\2.houseParty.exe
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\bin\Debug\net8.0\2.houseParty.deps.json
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\bin\Debug\net8.0\2.houseParty.runtimeconfig.json
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\bin\Debug\net8.0\2.houseParty.dll
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\bin\Debug\net8.0\2.houseParty.pdb
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\2.houseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\2.houseParty.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\2.houseParty.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\2.houseParty.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\2.houseParty.dll
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\refint\2.houseParty.dll
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\2.houseParty.pdb
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\2.houseParty.genruntimeconfig.cache
+C:\Users\Nikola\source\repos\ListsExercise\2.houseParty\obj\Debug\net8.0\ref\2.houseParty.dll
